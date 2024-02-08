@@ -2,7 +2,7 @@
 x = 10
 
 # Example 1: Simple if statement
-if x > 5:
+if x > 8:
     print("x is greater than 5")
 
 # Example 2: if-else statement
@@ -30,4 +30,4 @@ else:
             print("this is false ")
         else :
 
-            print("this is true")
+            print("this is true")# 
